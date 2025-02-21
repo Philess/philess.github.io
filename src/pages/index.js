@@ -23,8 +23,8 @@ export default function Home() {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title="Tug's Website"
-      description="Windsurf and Code. Development, DevOps with GitHub and more">
+      title="Philess's Website"
+      description="Retrouvez ici mes articles, mes talks et mes vidéos sur le développement, le cloud, et l'IA">
       <HomepageHeader />
       <main>
         <HomepageFeatures />

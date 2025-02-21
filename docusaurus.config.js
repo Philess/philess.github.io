@@ -3,7 +3,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
-  title: "Le carnet de route d'un développeur",
+  title: "Le guide du développeur intergalactic",
   tagline: "Retrouvez ici mes articles, mes talks et mes vidéos sur le développement, le cloud, et l'IA.",
   url: 'https://philess.github.io',
   baseUrl: '/',
