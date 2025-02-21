@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkphiless_blog=self.webpackChunkphiless_blog||[]).push([[216],{3523:l=>{l.exports=JSON.parse('{"label":"copilot","permalink":"/blog/tags/copilot","allTagsPath":"/blog/tags","count":1}')}}]);

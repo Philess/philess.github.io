@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://philess.github.io/blog</id>
+    <title>Le carnet de route d'un développeur Blog</title>
+    <updated>2025-02-18T06:12:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://philess.github.io/blog"/>
+    <subtitle>Le carnet de route d'un développeur Blog</subtitle>
+    <icon>https://philess.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Agent mode in GitHub Copilot]]></title>
+        <id>https://philess.github.io/blog/2025/02/18/github-copilot-agent-mode</id>
+        <link href="https://philess.github.io/blog/2025/02/18/github-copilot-agent-mode"/>
+        <updated>2025-02-18T06:12:00.000Z</updated>
+        <summary type="html"><![CDATA[Discover how GitHub Copilot Agent mode is changing the way you code]]></summary>
+        <content type="html"><![CDATA[<p>This is a quick demo of th agent mode released in Visual Studio Code.</p>]]></content>
+        <category label="coding with copilot" term="coding with copilot"/>
+        <category label="github" term="github"/>
+        <category label="copilot" term="copilot"/>
+        <category label="issue" term="issue"/>
+    </entry>
+</feed>

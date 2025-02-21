@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkphiless_blog=self.webpackChunkphiless_blog||[]).push([[472],{5513:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Agent mode in GitHub Copilot","permalink":"/blog/2025/02/18/github-copilot-agent-mode"}]}')}}]);
