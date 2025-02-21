@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://philess.github.io/blog</id>
-    <title>Le carnet de route d'un développeur Blog</title>
+    <title>Le guide du développeur intergalactic Blog</title>
     <updated>2025-02-18T06:12:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://philess.github.io/blog"/>
-    <subtitle>Le carnet de route d'un développeur Blog</subtitle>
+    <subtitle>Le guide du développeur intergalactic Blog</subtitle>
     <icon>https://philess.github.io/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Agent mode in GitHub Copilot]]></title>
